@@ -1,0 +1,122 @@
+body {
+	
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 90px;
+	font-family: "OpenSansSemiBold";
+}
+img {
+	width: 100%;
+}
+	#ras1:before {
+	display: block;
+	content: "";
+	height: 55px;
+	margin: 50px 0 0;
+}
+hr {
+	border-color: blue;
+	display: block;
+	position: relative;
+	border-width: 2px;
+
+}
+ .navbar-default {
+ 	background: black;
+ }
+
+
+h1, h2, h3 {
+	text-align: center;
+	color: blue;
+	padding: 0;
+	margin: 0;
+}
+ul, li {
+	display:block;
+	padding-top:5px;
+}
+a {
+	color: black;
+}
+i {
+	color: blue;
+}
+a:hover {
+	color: blue;
+	transition: 0.6s;
+}
+
+.header a {
+	color: white;
+	padding: 10px;
+	display: inline-block;
+}
+
+.inf {
+	border-left: 1px solid;
+	padding: 0;
+	margin:0;
+}
+.inf a:hover {
+	background: grey;
+	transition: 1s;
+}
+
+.main a {
+	margin-left: 15px;
+	text-align: center;
+}
+
+
+.main img {
+	width: 35%;
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+
+}
+.main {
+	margin: 20px;
+}
+.main_2, .main_3, .education, .main_5{
+	margin-bottom: 40px;
+}
+
+.main_2 p { 
+	font-weight: bold;
+ }
+
+.stab {
+	display: block;
+}
+
+.main_3 img, .main_4 img {
+	position: relative;
+	width: 30%;
+}
+
+
+.list-group-item {
+	    display: table-row;
+}
+
+.courses h3 {
+	text-align: left;
+	color: black;
+
+
+}
+.courses li {
+	display: inline-block;
+    position: relative;
+    left: 60px;
+    margin: 10px;
+
+}
+ .footer{
+font-size: 15px;
+font-weight: 6000;
+}
+
