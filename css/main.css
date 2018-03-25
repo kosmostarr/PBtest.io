@@ -101,7 +101,9 @@ a:hover {
 .list-group-item {
 	    display: table-row;
 }
-
+.courses {
+margin: 50px 0 0;
+}
 .courses h3 {
 	text-align: left;
 	color: black;
@@ -117,6 +119,5 @@ a:hover {
 }
  .footer{
 font-size: 15px;
-font-weight: 6000;
 }
 
